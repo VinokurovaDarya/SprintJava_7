@@ -1,0 +1,56 @@
+{
+  "uid" : "b7176edda5388be8",
+  "name" : "Check response when courier can't created twice",
+  "fullName" : "courier.CourierNegativeTest.createTheSameCourierAndCheckStatusCode",
+  "historyId" : "9662868310638444d8857e0c4d6171ae",
+  "time" : {
+    "start" : 1728237728527,
+    "stop" : 1728237729689,
+    "duration" : 1162
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "courier"
+  }, {
+    "name" : "testClass",
+    "value" : "courier.CourierNegativeTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "createTheSameCourierAndCheckStatusCode"
+  }, {
+    "name" : "suite",
+    "value" : "courier.CourierNegativeTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-KRLDAG9"
+  }, {
+    "name" : "thread",
+    "value" : "8652@DESKTOP-KRLDAG9.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b7176edda5388be8.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,56 @@
+{
+  "uid" : "6cfae32ec270d668",
+  "name" : "Check response when courier is created",
+  "fullName" : "courier.CourierPositiveTest.courierCanBeCreated",
+  "historyId" : "656bb2b80569d9ff885281920feb10ee",
+  "time" : {
+    "start" : 1728237727728,
+    "stop" : 1728237728523,
+    "duration" : 795
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "courier"
+  }, {
+    "name" : "testClass",
+    "value" : "courier.CourierPositiveTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "courierCanBeCreated"
+  }, {
+    "name" : "suite",
+    "value" : "courier.CourierPositiveTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-KRLDAG9"
+  }, {
+    "name" : "thread",
+    "value" : "8652@DESKTOP-KRLDAG9.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6cfae32ec270d668.json",
+  "parameterValues" : [ ]
+}

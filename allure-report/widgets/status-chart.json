@@ -1,0 +1,31 @@
+[ {
+  "uid" : "b7176edda5388be8",
+  "name" : "Check response when courier can't created twice",
+  "time" : {
+    "start" : 1728237728527,
+    "stop" : 1728237729689,
+    "duration" : 1162
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "22a5853becee2594",
+  "name" : "Check response when courier is logged in",
+  "time" : {
+    "start" : 1728237721857,
+    "stop" : 1728237727650,
+    "duration" : 5793
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6cfae32ec270d668",
+  "name" : "Check response when courier is created",
+  "time" : {
+    "start" : 1728237727728,
+    "stop" : 1728237728523,
+    "duration" : 795
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

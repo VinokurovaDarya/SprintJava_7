@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Oct 06 22:02:08 SAMT 2024","Sun Oct 06 22:02:09 SAMT 2024","1162","","courier.CourierNegativeTest","","courier.CourierNegativeTest","createTheSameCourierAndCheckStatusCode","Check response when courier can't created twice",""
+"passed","Sun Oct 06 22:02:01 SAMT 2024","Sun Oct 06 22:02:07 SAMT 2024","5793","","courier.CourierPositiveTest","","courier.CourierPositiveTest","courierCanBeLoginAndCheckResponse","Check response when courier is logged in",""
+"passed","Sun Oct 06 22:02:07 SAMT 2024","Sun Oct 06 22:02:08 SAMT 2024","795","","courier.CourierPositiveTest","","courier.CourierPositiveTest","courierCanBeCreated","Check response when courier is created",""

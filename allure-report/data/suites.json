@@ -1,0 +1,52 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "courier.CourierPositiveTest",
+    "children" : [ {
+      "name" : "Check response when courier is logged in",
+      "uid" : "22a5853becee2594",
+      "parentUid" : "8b0373afe462d312bd0157a0db16ced9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1728237721857,
+        "stop" : 1728237727650,
+        "duration" : 5793
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Check response when courier is created",
+      "uid" : "6cfae32ec270d668",
+      "parentUid" : "8b0373afe462d312bd0157a0db16ced9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1728237727728,
+        "stop" : 1728237728523,
+        "duration" : 795
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "8b0373afe462d312bd0157a0db16ced9"
+  }, {
+    "name" : "courier.CourierNegativeTest",
+    "children" : [ {
+      "name" : "Check response when courier can't created twice",
+      "uid" : "b7176edda5388be8",
+      "parentUid" : "45f8c9e0553d49151d47f1c415250cfa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1728237728527,
+        "stop" : 1728237729689,
+        "duration" : 1162
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "45f8c9e0553d49151d47f1c415250cfa"
+  } ]
+}

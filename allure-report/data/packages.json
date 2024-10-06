@@ -1,0 +1,48 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "courier",
+    "children" : [ {
+      "name" : "courierCanBeLoginAndCheckResponse",
+      "uid" : "22a5853becee2594",
+      "parentUid" : "35028dc696ec4f3701e0d00d7a86c3d2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1728237721857,
+        "stop" : 1728237727650,
+        "duration" : 5793
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "courierCanBeCreated",
+      "uid" : "6cfae32ec270d668",
+      "parentUid" : "35028dc696ec4f3701e0d00d7a86c3d2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1728237727728,
+        "stop" : 1728237728523,
+        "duration" : 795
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "createTheSameCourierAndCheckStatusCode",
+      "uid" : "b7176edda5388be8",
+      "parentUid" : "35028dc696ec4f3701e0d00d7a86c3d2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1728237728527,
+        "stop" : 1728237729689,
+        "duration" : 1162
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "35028dc696ec4f3701e0d00d7a86c3d2"
+  } ]
+}
